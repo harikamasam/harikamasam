@@ -8,7 +8,7 @@ I'm Harika, an AI undergraduate exploring software engineering through projects,
 
 💻 Aspiring Software Development Engineer
 
-🚀 234+ LeetCode Problems Solved
+🚀 Solved 234+ LeetCode Problems 
 
 ## Tech Stack
 
@@ -16,11 +16,11 @@ Python • Java • C++ • React • FastAPI • SQL
 
 ## Featured Projects
 
-🔹 **TruthShield** — AI-powered trust and misinformation analysis platform.
+🔹 **[TruthShield](https://github.com/harikamasam/TruthShield)** — AI-powered trust and misinformation analysis platform.
 
-🔹 **EasyMed AI** — AI-powered healthcare intelligence platform for symptom analysis, report insights, and personalized health recommendations.
+🔹 **[EasyMed-AI](https://github.com/harikamasam/EasyMed-AI)** — AI-powered healthcare intelligence platform.
 
-🔹 **AI Stylist** — Virtual fashion try-on application powered by computer vision and real-time body tracking.
+🔹 **[AI-Stylist](https://github.com/harikamasam/AI-Stylist)** — Virtual fashion try-on application powered by computer vision and real-time body tracking.
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harika-masam)
