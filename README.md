@@ -1,4 +1,4 @@
-# Hey there! 👋
+Hey there! 👋
 
 Trying to make my Git commits greener than my excuses.
 
@@ -14,19 +14,17 @@ I'm Harika, an AI undergraduate exploring software engineering through projects,
 
 Python • Java • C++ • React • FastAPI • SQL
 
-## What I'm Building
+## Featured Projects
 
-🔹 TruthShield — AI-powered misinformation analysis platform that evaluates credibility, bias, toxicity, manipulation tactics, and claim authenticity.
+🔹 TruthShield — AI-powered trust and misinformation analysis platform.
 
-🔹 EasyMed AI — Healthcare intelligence platform featuring symptom analysis, medical report insights, appointment management, and personalized health recommendations.
+🔹 EasyMed AI — AI-powered healthcare intelligence platform for symptom analysis, report insights, and personalized health recommendations.
 
-🔹 AI Stylist — Virtual fashion try-on application using computer vision and real-time body tracking.
+🔹 AI Stylist — Virtual fashion try-on application powered by computer vision and real-time body tracking.
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harika-masam-282241314/)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/harikamasam/)
+LinkedIn • LeetCode
 
 ---
 
