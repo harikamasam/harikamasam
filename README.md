@@ -1,4 +1,4 @@
-Hey there! 👋
+# Hey there! 👋
 
 Trying to make my Git commits greener than my excuses.
 
@@ -16,16 +16,17 @@ Python • Java • C++ • React • FastAPI • SQL
 
 ## Featured Projects
 
-🔹 TruthShield — AI-powered trust and misinformation analysis platform.
+🔹 **TruthShield** — AI-powered trust and misinformation analysis platform.
 
-🔹 EasyMed AI — AI-powered healthcare intelligence platform for symptom analysis, report insights, and personalized health recommendations.
+🔹 **EasyMed AI** — AI-powered healthcare intelligence platform for symptom analysis, report insights, and personalized health recommendations.
 
-🔹 AI Stylist — Virtual fashion try-on application powered by computer vision and real-time body tracking.
+🔹 **AI Stylist** — Virtual fashion try-on application powered by computer vision and real-time body tracking.
 
 ## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harika-masam)
 
-LinkedIn • LeetCode
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/harikamasam/)
 
 ---
 
-Currently learning, building, and figuring things out one commit at a time.
+*Currently learning, building, and figuring things out one commit at a time.*
