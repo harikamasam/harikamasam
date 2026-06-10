@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**harikamasam/harikamasam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trying to make my Git commits greener than my excuses.
 
-Here are some ideas to get you started:
+I'm Harika. Just a student trying to leave a few good projects behind wherever I learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech in Artificial Intelligence
+💻 Aspiring Software Development Engineer
+🚀 234+ LeetCode Problems Solved
+
+## Tech Stack
+
+Python • Java • C++ • React • FastAPI • SQL
+
+## What I'm Building
+
+* TruthShield — AI-powered misinformation analysis
+* EasyMed AI — Healthcare intelligence platform
+* AI Stylist — Virtual fashion try-on
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harika-masam)
+
+
+
