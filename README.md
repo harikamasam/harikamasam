@@ -8,7 +8,7 @@ I'm Harika, an AI undergraduate exploring software engineering through projects,
 
 💻 Aspiring Software Development Engineer
 
-🚀 Solved 234+ LeetCode Problems 
+🚀 Solved 250+ LeetCode Problems 
 
 ## Tech Stack
 
