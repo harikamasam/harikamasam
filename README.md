@@ -15,13 +15,11 @@ I'm Harika, an AI undergraduate exploring software engineering through projects,
 Python • Java • C++ • React • FastAPI • SQL
 
 ## Featured Projects
+🔹 **[Distributed Rate Limiter & API Gateway](https://github.com/harikamasam/distributed-rate-limiter-gateway)** — Distributed API rate limiter using the Token Bucket algorithm, Redis, and atomic Lua scripting to prevent race conditions under concurrent load.
 
-🔹 **[TruthShield](https://github.com/harikamasam/TruthShield)** — AI-powered trust and misinformation analysis platform.
+🔹 **[AskPDF](https://github.com/harikamasam/Ask-PDF)** — RAG-powered document Q&A system that lets users upload PDFs and get accurate, hallucination-resistant answers via semantic search and real-time streaming.
 
-🔹 **[EasyMed-AI](https://github.com/harikamasam/EasyMed-AI)** — AI-powered healthcare intelligence platform.
-
-🔹 **[AI-Stylist](https://github.com/harikamasam/AI-Stylist)** — Virtual fashion try-on application powered by computer vision and real-time body tracking.
-
+🔹 **[TruthShield](https://github.com/harikamasam/TruthShield)** — AI-powered content analysis platform generating explainable trust and credibility reports using a weighted signal-scoring pipeline.
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harika-masam)
 
